@@ -1,0 +1,4 @@
+JMH S 36 performance.JsonDeserializeBenchmark S 62 performance.generated.JsonDeserializeBenchmark_JsonLib_jmhTest S 7 JsonLib S 14 SingleShotTime E A 1 1 1 E E E E E E E E E E E E E M 1 5 count 3 4 1000 5 10000 6 100000 U 7 SECONDS E E 
+JMH S 36 performance.JsonDeserializeBenchmark S 62 performance.generated.JsonDeserializeBenchmark_Jackson_jmhTest S 7 Jackson S 14 SingleShotTime E A 1 1 1 E E E E E E E E E E E E E M 1 5 count 3 4 1000 5 10000 6 100000 U 7 SECONDS E E 
+JMH S 36 performance.JsonDeserializeBenchmark S 63 performance.generated.JsonDeserializeBenchmark_FastJson_jmhTest S 8 FastJson S 14 SingleShotTime E A 1 1 1 E E E E E E E E E E E E E M 1 5 count 3 4 1000 5 10000 6 100000 U 7 SECONDS E E 
+JMH S 36 performance.JsonDeserializeBenchmark S 59 performance.generated.JsonDeserializeBenchmark_Gson_jmhTest S 4 Gson S 14 SingleShotTime E A 1 1 1 E E E E E E E E E E E E E M 1 5 count 3 4 1000 5 10000 6 100000 U 7 SECONDS E E 
